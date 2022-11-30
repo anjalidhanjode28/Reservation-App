@@ -3,7 +3,7 @@ import {
   Routes,
   Route
 } from "react-router-dom";
-import { List } from "./list/List";
+import List from "./list/List";
 import { Home } from "./pages/home/Home";
 import {Hotel} from "./hotel/Hotel"
 function App() {
